@@ -6,4 +6,8 @@ class AjouController < ApplicationController
     
     
   end
+  def practice
+    
+  end
+  
 end
