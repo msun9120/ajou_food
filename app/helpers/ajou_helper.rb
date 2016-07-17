@@ -1,0 +1,2 @@
+module AjouHelper
+end
